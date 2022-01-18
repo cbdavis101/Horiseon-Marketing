@@ -26,14 +26,13 @@ Last thing i did was add comments to the CSS section and the project was complet
 
 When you open the project the following should appear. One of the major changes to the actual functionality of the site is the nav bar. As you can see on the top right hand side.
 
-```md
+
 ![Nav section of the website](https://i.imgur.com/oMwArpk.png)
-```
+
 
 If you click Search Engine Optimization, Online Reputation Mangement, or Social Media Marketing it should bring you to the heading of which ever nav button you selected.
 
-```md
 ![Nav Button Selected](https://i.imgur.com/I4UoezS.png)
-```
+
 
 
